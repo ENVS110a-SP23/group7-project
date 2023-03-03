@@ -3,7 +3,7 @@
 
 
 ## Project Background
-
+With the increase of climate change impacts on the environment one of the ways in which we are looking to adapt to a host of different issues is through ways of green infrastructure. This has a very  wide range of applications and looks to tackle many different issues that are arising and will likely become more prominent in the future. For example, a lot of green infrastructure focuses on reducing the amount of discharge and waste getting into waterways, mainly through reducing speed and quantity of water by reducing impermeable materials. We however are looking to focus on green infrastructure regarding roofs which looks to tackle issues like air pollution and heating. This is especially important in major cities like New York City, which we are basing the research on, since cities create urban heat islands and contain a lot of emission of different types of chemicals. One of the strategies NYC is employing to help combat these issues is implementing cool roofs. Some implementations are as simple as using reflective paint while others are more complex types in terms of the use of new materials and infrastructure practices. There are new materials now which are able to help cool cities and sequester carbon along with other chemicals. This along with the implementation of new design and more green areas are all ways in which green roofs are expanding across New York as a climate solution. 
 ## Research Question
 
 ## Hypothesis and Next Steps
