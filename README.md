@@ -19,9 +19,9 @@ Since we are planning to focus our research question on air quality and/or heat,
 3. Data Analysis and Statistics: Gabo
 
 ### Data Sources
-Green Roofs: https://www.kaggle.com/datasets/thedevastator/nyc-green-roof-footprints
-Air Quality: https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
-Heat: https://www.visualcrossing.com/weather-api
+- Green Roofs: https://www.kaggle.com/datasets/thedevastator/nyc-green-roof-footprints
+- Air Quality: https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+- Heat: https://www.visualcrossing.com/weather-api
 
 Note: for the heat portion, we want to look into using this API to be able to pull historical weather data
 
