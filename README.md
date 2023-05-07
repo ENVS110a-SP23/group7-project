@@ -18,7 +18,7 @@
 3. Data Analysis and Statistics: Gabo
 
 ### Data Sources
-- \href{https://www.kaggle.com/datasets/sogun3/uspollution}{U.S. Air Pollution Data from 2000 - 2016 (U.S. Environmental Protection Agency Database)}  
-- \href{https://www.kaggle.com/datasets/sogun3/uspollution}{Monthly Energy Consumption in U.S. from 1949 - 2023 (U.S. Energy Information Administration)}
-- \href{https://www.kaggle.com/datasets/sogun3/uspollution}{U.S. Transportation Fuels Production/Demand from 1993 - 2021 (NY State Energy Research and Development Authority)}
+- [U.S. Air Pollution Data from 2000 - 2016](https://www.kaggle.com/datasets/sogun3/uspollution) (U.S. Environmental Protection Agency Database)
+- [Monthly Energy Consumption in U.S. from 1949 - 2023](https://www.eia.gov/totalenergy/data/monthly/) (U.S. Energy Information Administration)
+- [U.S. Transportation Fuels Production/Demand from 1993 - 2021](https://data.world/data-ny-gov/atwy-2trf) (NY State Energy Research and Development Authority)
 
