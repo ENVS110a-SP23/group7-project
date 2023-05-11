@@ -6,11 +6,14 @@
  
 
 ## Research Question
-
-
+Keeping the above context in mind, we developed our research question: 
+Does the way in which we produce and consume energy in the United States have negative effects on the quality of air? 
 
 ## Hypothesis and Next Steps
+We defined the following hypothesis to explore this research question:
+There exists a positive correlation between the production of fuel and amount of air pollution in the United States.
 
+To investigate this, we conduct a study using the given datasets below, approaching it from a statistical standpoint. We attempt to determine correlations between production of fuel and amount of air pollution using the Pearson Correlation Coefficient and evaluating the statistical significance of that measure by also calculating the p-value.
 
 ### Member Roles
 1. Data Pre-Processing and Cleaning: Kyra
